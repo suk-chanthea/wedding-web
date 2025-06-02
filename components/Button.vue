@@ -1,6 +1,6 @@
 <template>
     <button class="w-[50%] md:max-w-[30vw] h-auto" :class="{ 'animate-pop': animating }">
-        <img class="w-full h-full" src="/assets/image/demo/btn-open.png" alt="">
+        <img class="w-full h-full" src="/assets/image/demo/btn/open.png" alt="">
     </button>
 </template>
 
